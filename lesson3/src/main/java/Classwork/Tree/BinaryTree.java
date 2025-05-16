@@ -1,4 +1,4 @@
-package lab19;
+package Classwork.Tree;
 
 public abstract class BinaryTree {
 

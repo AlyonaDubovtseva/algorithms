@@ -1,4 +1,4 @@
-package lab19;
+package Classwork.Tree;
 
 public class Node implements ITree {
     private int value;

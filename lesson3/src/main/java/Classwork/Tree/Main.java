@@ -1,4 +1,4 @@
-package lab19;
+package Classwork.Tree;
 
 public class Main {
     public static void main(String[] args) {
